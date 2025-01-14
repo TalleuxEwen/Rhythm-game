@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "RythmGame_WwiseProject",
+   "GUID": "{B2944358-F286-4E6E-A8DF-39CE658DB7CD}",
+   "Generator": "2024.1.1.8691"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{1F805D30-EAA2-44FC-94CF-BA592BE9CF30}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{71647956-00A4-49DF-B735-9EC62186F41B}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{7951E892-BF79-46A0-9574-A671A7C50014}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{9BED01C9-9989-E91E-5048-7400987DECD2}"
+ }
+}
