@@ -67,7 +67,14 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
+Intermediate/Build/*
+Intermediate/Config/*
+Intermediate/PipInstall/*
+Intermediate/ReimportCache/*
+Intermediate/ShaderAutogen/*
+Intermediate/Staging/*
+Intermediate/CachedAssetRegistry_0.bin
+Intermediate/TargetInfo.json
 Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
