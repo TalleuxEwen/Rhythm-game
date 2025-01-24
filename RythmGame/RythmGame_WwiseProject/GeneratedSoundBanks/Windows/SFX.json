@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "393239870",
+    "Type": "User",
+    "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
+    "Language": "SFX",
+    "Hash": "{A30A58B1-0546-E165-7847-1AD91FD23E7F}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
+    "ShortName": "SFX",
+    "Path": "SFX.bnk",
+    "Media": [
+     {
+      "Id": "330029483",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Main Stem.wav",
+      "CachePath": "07/{07F7F86E-E7D7-9AA8-95D6-8713C6AAE191}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4038696120",
+      "Name": "Play_Guitar_Main_Stem",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Guitar_Main_Stem",
+      "GUID": "{A8A4638A-2CB8-4731-8630-AF0295E7B14E}",
+      "DurationType": "OneShot",
+      "DurationMin": "13.598161",
+      "DurationMax": "13.598161",
+      "MediaRefs": [
+       {
+        "Id": "330029483"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A03E5F97-4383-F3E6-6AB9-F80991F54AB3}"
+ }
+}

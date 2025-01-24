@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1308217568	Play_The_Lemonheads___Mrs__Robinson__Remastered_			\Default Work Unit\Play_The_Lemonheads___Mrs__Robinson__Remastered_	
+	1637566289	Seek_The_Girl_From_Ipanema__2008_Remastered_			\Default Work Unit\Seek_The_Girl_From_Ipanema__2008_Remastered_	
+	3086540886	StopAll			\Default Work Unit\StopAll	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	186236163	The_Lemonheads_-_Mrs__Robinson_(Remastered)	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\F8\{F8DD5FFC-96FB-CF0A-EE6F-83091C8514C5}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\The_Lemonheads_-_Mrs__Robinson_(Remastered)		39690352
+	318042382	The_Girl_From_Ipanema__2008_Remastered_	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\19\{19F0F0E7-D1A5-FB4B-97FE-C5BE878FD1E0}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\The_Girl_From_Ipanema__2008_Remastered_		34234480
+

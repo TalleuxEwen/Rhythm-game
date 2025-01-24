@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4038696120	Play_Guitar_Main_Stem			\Default Work Unit\Play_Guitar_Main_Stem	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	330029483	Guitar Main Stem	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\E9\{E96AE381-2F2A-DED8-2FBC-EFE822D66062}.wem		\Actor-Mixer Hierarchy\SFX\Guitar Main Stem		2610940
+

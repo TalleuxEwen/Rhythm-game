@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "393239870",
+    "Type": "User",
+    "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
+    "Language": "SFX",
+    "Hash": "{871108C4-F776-8A0C-6C0D-796BBBCA35DE}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
+    "ShortName": "SFX",
+    "Path": "SFX.bnk",
+    "Media": [
+     {
+      "Id": "330029483",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Main Stem.wav",
+      "CachePath": "E9/{E96AE381-2F2A-DED8-2FBC-EFE822D66062}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4038696120",
+      "Name": "Play_Guitar_Main_Stem",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Guitar_Main_Stem",
+      "GUID": "{A8A4638A-2CB8-4731-8630-AF0295E7B14E}",
+      "DurationType": "OneShot",
+      "DurationMin": "13.598161",
+      "DurationMax": "13.598161",
+      "MediaRefs": [
+       {
+        "Id": "330029483"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{8B7C9D68-105A-4578-B4C6-A4EE578B3578}"
+ }
+}
