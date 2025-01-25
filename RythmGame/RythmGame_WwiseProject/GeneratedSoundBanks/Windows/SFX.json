@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
     "Language": "SFX",
-    "Hash": "{A30A58B1-0546-E165-7847-1AD91FD23E7F}",
+    "Hash": "{23DA48A7-B304-A111-5581-D88AA7450E26}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
     "ShortName": "SFX",
     "Path": "SFX.bnk",
@@ -21,10 +21,76 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Guitar Main Stem.wav",
-      "CachePath": "07/{07F7F86E-E7D7-9AA8-95D6-8713C6AAE191}.wem"
+      "CachePath": "C8/{C8D9D2E5-4B51-95C6-50DD-48C39ACAD485}.wem"
+     },
+     {
+      "Id": "399991542",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Accent Stem.wav",
+      "CachePath": "3B/{3B76F4B8-C971-40C6-837C-CFEA673823D4}.wem"
+     },
+     {
+      "Id": "808072116",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Accent Stem.wav",
+      "CachePath": "33/{338B102B-A096-591E-4D39-FCAACB11C8FF}.wem"
+     },
+     {
+      "Id": "808164559",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Main Stem.wav",
+      "CachePath": "63/{63A6C499-2106-9A9E-C33C-04C825CFC889}.wem"
+     },
+     {
+      "Id": "900630553",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Accent Stem.wav",
+      "CachePath": "1B/{1B7A7DC8-67FF-7DB0-5048-E2C46C22A466}.wem"
+     },
+     {
+      "Id": "975956616",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Riff Stem.wav",
+      "CachePath": "0E/{0E62F7F9-4524-9C5E-F669-5B98F2A0FC14}.wem"
      }
     ],
     "Events": [
+     {
+      "Id": "1422873489",
+      "Name": "Play_ButtonMenuInteract",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_ButtonMenuInteract",
+      "GUID": "{10C29978-0605-405B-84F1-1901063D1B9D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.37284452",
+      "DurationMax": "1.2097186",
+      "MediaRefs": [
+       {
+        "Id": "399991542"
+       },
+       {
+        "Id": "808072116"
+       },
+       {
+        "Id": "808164559"
+       },
+       {
+        "Id": "900630553"
+       },
+       {
+        "Id": "975956616"
+       }
+      ]
+     },
      {
       "Id": "4038696120",
       "Name": "Play_Guitar_Main_Stem",
@@ -42,6 +108,6 @@
     ]
    }
   ],
-  "FileHash": "{A03E5F97-4383-F3E6-6AB9-F80991F54AB3}"
+  "FileHash": "{B3542C4A-84A4-C1D5-A70E-CD017FC9CBFE}"
  }
 }

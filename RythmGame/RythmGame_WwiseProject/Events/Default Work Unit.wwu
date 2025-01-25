@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" SchemaVersion="123">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Seek_The_Girl_From_Ipanema__2008_Remastered_" ID="{77F4B426-A102-49F5-8409-80DE63840E1C}">
+					<ChildrenList>
+						<Action Name="" ID="{11EEAF12-02B7-4D29-914C-71752DDA0696}" ShortID="720909812">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The_Girl_From_Ipanema__2008_Remastered_" ID="{5BD29396-FCEF-4CFE-B5CD-A825EB59C280}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Lemonheads___Mrs__Robinson__Remastered_" ID="{29471E65-4E9E-43B4-B5ED-454A6C89B12E}">
+					<ChildrenList>
+						<Action Name="" ID="{5070BBF3-FFB3-4745-8CB4-77271767EA74}" ShortID="766894754">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The_Lemonheads_-_Mrs__Robinson_(Remastered)" ID="{DB7713C0-7CCE-4CFD-98FF-391C3B5009BA}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Guitar_Main_Stem" ID="{A8A4638A-2CB8-4731-8630-AF0295E7B14E}">
+					<ChildrenList>
+						<Action Name="" ID="{9A1885EE-DBE5-4C85-A5BC-29B614C444CB}" ShortID="154287208">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Guitar Main Stem" ID="{B8CC1385-68F4-4191-AEE2-A1E8EAA81D2B}" WorkUnitID="{E573641D-D766-4817-B150-8E428E1ECF80}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="StopAll" ID="{81BEE1CD-BA02-42C8-9A05-F789FFCD76C3}">
+					<ChildrenList>
+						<Action Name="" ID="{D0918945-39A1-4513-8FEC-C952421B2E97}" ShortID="458482909">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+								<Property Name="FadeTime" Type="Real64" Value="2.5"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

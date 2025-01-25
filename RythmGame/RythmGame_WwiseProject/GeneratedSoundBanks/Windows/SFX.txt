@@ -1,6 +1,12 @@
 Event	ID	Name			Wwise Object Path	Notes
+	1422873489	Play_ButtonMenuInteract			\Default Work Unit\Play_ButtonMenuInteract	
 	4038696120	Play_Guitar_Main_Stem			\Default Work Unit\Play_Guitar_Main_Stem	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	330029483	Guitar Main Stem	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\07\{07F7F86E-E7D7-9AA8-95D6-8713C6AAE191}.wem		\Actor-Mixer Hierarchy\SFX\Guitar Main Stem		53038
+	330029483	Guitar Main Stem	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\C8\{C8D9D2E5-4B51-95C6-50DD-48C39ACAD485}.wem		\Actor-Mixer Hierarchy\SFX\Guitar Main Stem		53038
+	399991542	Interact5	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\3B\{3B76F4B8-C971-40C6-837C-CFEA673823D4}.wem		\Actor-Mixer Hierarchy\SFX\ButtonMenuInteract\Interact5		232360
+	808072116	Interact3	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\33\{338B102B-A096-591E-4D39-FCAACB11C8FF}.wem		\Actor-Mixer Hierarchy\SFX\ButtonMenuInteract\Interact3		185348
+	808164559	Interact2	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\63\{63A6C499-2106-9A9E-C33C-04C825CFC889}.wem		\Actor-Mixer Hierarchy\SFX\ButtonMenuInteract\Interact2		125160
+	900630553	Interact4	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\1B\{1B7A7DC8-67FF-7DB0-5048-E2C46C22A466}.wem		\Actor-Mixer Hierarchy\SFX\ButtonMenuInteract\Interact4		139788
+	975956616	Interact1	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\0E\{0E62F7F9-4524-9C5E-F669-5B98F2A0FC14}.wem		\Actor-Mixer Hierarchy\SFX\ButtonMenuInteract\Interact1		71684
 

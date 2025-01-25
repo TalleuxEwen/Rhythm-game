@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{E573641D-D766-4817-B150-8E428E1ECF80}" SchemaVersion="123">
 	<AudioObjects>
-		<WorkUnit Name="SFX" ID="{E573641D-D766-4817-B150-8E428E1ECF80}" PersistMode="Standalone"/>
+		<WorkUnit Name="SFX" ID="{E573641D-D766-4817-B150-8E428E1ECF80}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Guitar Main Stem" ID="{B8CC1385-68F4-4191-AEE2-A1E8EAA81D2B}" ShortID="56138523">
+					<PropertyList>
+						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="StandartConversion" ID="{7FF49705-AEF0-4039-B704-BB576C8CF3C1}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Guitar Main Stem" ID="{B709CB16-D156-4549-AD51-04B196167304}">
+							<PropertyList>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="185.335742672105"/>
+								<Property Name="TrimEnd" Type="Real64" Value="198.933903043343"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>Guitar Main Stem.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="330029483"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Guitar Main Stem" ID="{B709CB16-D156-4549-AD51-04B196167304}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>

@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
     "Language": "SFX",
-    "Hash": "{871108C4-F776-8A0C-6C0D-796BBBCA35DE}",
+    "Hash": "{D937AC2C-755A-4436-ECAB-10724810CBEE}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
     "ShortName": "SFX",
     "Path": "SFX.bnk",
@@ -21,10 +21,68 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Guitar Main Stem.wav",
-      "CachePath": "E9/{E96AE381-2F2A-DED8-2FBC-EFE822D66062}.wem"
+      "CachePath": "0B/{0B580D07-1DBD-E57C-A034-2277AE76C4C1}.wem"
+     },
+     {
+      "Id": "399991542",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Accent Stem.wav",
+      "CachePath": "3B/{3B76F4B8-C971-40C6-837C-CFEA673823D4}.wem"
+     },
+     {
+      "Id": "808072116",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Accent Stem.wav",
+      "CachePath": "33/{338B102B-A096-591E-4D39-FCAACB11C8FF}.wem"
+     },
+     {
+      "Id": "900630553",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Accent Stem.wav",
+      "CachePath": "1B/{1B7A7DC8-67FF-7DB0-5048-E2C46C22A466}.wem"
+     },
+     {
+      "Id": "975956616",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Guitar Riff Stem.wav",
+      "CachePath": "0E/{0E62F7F9-4524-9C5E-F669-5B98F2A0FC14}.wem"
      }
     ],
     "Events": [
+     {
+      "Id": "1422873489",
+      "Name": "Play_ButtonMenuInteract",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_ButtonMenuInteract",
+      "GUID": "{10C29978-0605-405B-84F1-1901063D1B9D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.37284452",
+      "DurationMax": "1.2097186",
+      "MediaRefs": [
+       {
+        "Id": "330029483"
+       },
+       {
+        "Id": "399991542"
+       },
+       {
+        "Id": "808072116"
+       },
+       {
+        "Id": "900630553"
+       },
+       {
+        "Id": "975956616"
+       }
+      ]
+     },
      {
       "Id": "4038696120",
       "Name": "Play_Guitar_Main_Stem",
@@ -42,6 +100,6 @@
     ]
    }
   ],
-  "FileHash": "{8B7C9D68-105A-4578-B4C6-A4EE578B3578}"
+  "FileHash": "{8203BF26-B6F2-57E9-0888-0C2EDE14561D}"
  }
 }
