@@ -10,18 +10,26 @@
     "Type": "User",
     "GUID": "{6B896A13-DC7A-4A42-9804-D913A9915CEA}",
     "Language": "SFX",
-    "Hash": "{37355859-4C95-04FC-DC85-2BD9FB13780E}",
+    "Hash": "{11501859-75E6-30B4-0757-DAE712E98147}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_TitleScreenMusics",
     "ShortName": "SB_TitleScreenMusics",
     "Path": "SB_TitleScreenMusics.bnk",
     "Media": [
+     {
+      "Id": "35198748",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SpotifyMate.com-Levels-Radio-Edit-Avicii.wav",
+      "CachePath": "0A/{0A2740DD-7BC3-C85B-A7BF-E539C0E2470A}.wem"
+     },
      {
       "Id": "186236163",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "The_Lemonheads_-_Mrs._Robinson_(Remastered).wav",
-      "CachePath": "80/{80F6B8DB-F191-943F-5386-06848042EF55}.wem"
+      "CachePath": "2F/{2F182917-DDCF-5B7C-A38B-CDE74D3E8701}.wem"
      },
      {
       "Id": "318042382",
@@ -29,10 +37,24 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "The_Girl_From_Ipanema__2008_Remastered_.wav",
-      "CachePath": "40/{407D0FEC-ECD8-E8C3-77BA-178C5671D124}.wem"
+      "CachePath": "3A/{3A3EF9FD-D516-8DF9-C6BA-6D53CE91E19D}.wem"
      }
     ],
     "Events": [
+     {
+      "Id": "2180748824",
+      "Name": "Play_SpotifyMate_com_Levels_Radio_Edit_Avicii",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_SpotifyMate_com_Levels_Radio_Edit_Avicii",
+      "GUID": "{2CBAFB98-1BA7-499B-AD20-AC6E9F58D06D}",
+      "DurationType": "OneShot",
+      "DurationMin": "198.27045",
+      "DurationMax": "198.27045",
+      "MediaRefs": [
+       {
+        "Id": "35198748"
+       }
+      ]
+     },
      {
       "Id": "1308217568",
       "Name": "Play_The_Lemonheads___Mrs__Robinson__Remastered_",
@@ -74,6 +96,6 @@
     ]
    }
   ],
-  "FileHash": "{4CCBFD7F-BEDC-B189-A96A-70FDFB07614F}"
+  "FileHash": "{24ADAF09-1ECF-757D-CF94-8E59EE517BA4}"
  }
 }

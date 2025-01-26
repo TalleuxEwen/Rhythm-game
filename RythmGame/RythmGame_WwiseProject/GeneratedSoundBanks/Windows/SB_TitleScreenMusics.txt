@@ -1,9 +1,11 @@
 Event	ID	Name			Wwise Object Path	Notes
 	1308217568	Play_The_Lemonheads___Mrs__Robinson__Remastered_			\Default Work Unit\Play_The_Lemonheads___Mrs__Robinson__Remastered_	
 	1637566289	Seek_The_Girl_From_Ipanema__2008_Remastered_			\Default Work Unit\Seek_The_Girl_From_Ipanema__2008_Remastered_	
+	2180748824	Play_SpotifyMate_com_Levels_Radio_Edit_Avicii			\Default Work Unit\Play_SpotifyMate_com_Levels_Radio_Edit_Avicii	
 	3086540886	StopAll			\Default Work Unit\StopAll	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	186236163	The_Lemonheads_-_Mrs__Robinson_(Remastered)	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\80\{80F6B8DB-F191-943F-5386-06848042EF55}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\The_Lemonheads_-_Mrs__Robinson_(Remastered)		837539
-	318042382	The_Girl_From_Ipanema__2008_Remastered_	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\40\{407D0FEC-ECD8-E8C3-77BA-178C5671D124}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\The_Girl_From_Ipanema__2008_Remastered_		782442
+	35198748	SpotifyMate_com-Levels-Radio-Edit-Avicii	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\0A\{0A2740DD-7BC3-C85B-A7BF-E539C0E2470A}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\SpotifyMate_com-Levels-Radio-Edit-Avicii		773605
+	186236163	The_Lemonheads_-_Mrs__Robinson_(Remastered)	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\2F\{2F182917-DDCF-5B7C-A38B-CDE74D3E8701}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\The_Lemonheads_-_Mrs__Robinson_(Remastered)		837539
+	318042382	The_Girl_From_Ipanema__2008_Remastered_	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\3A\{3A3EF9FD-D516-8DF9-C6BA-6D53CE91E19D}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\The_Girl_From_Ipanema__2008_Remastered_		782442
 

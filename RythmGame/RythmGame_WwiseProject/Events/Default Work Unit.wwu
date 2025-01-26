@@ -47,6 +47,39 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_ButtonMenuInteract" ID="{10C29978-0605-405B-84F1-1901063D1B9D}">
+					<ChildrenList>
+						<Action Name="" ID="{7AA5A5A2-BECF-4CC8-B585-F432C616B898}" ShortID="311396985">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ButtonMenuInteract" ID="{B9383728-893B-4F74-B8A4-DF02953ECBBA}" WorkUnitID="{E573641D-D766-4817-B150-8E428E1ECF80}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Error" ID="{396BB69B-D2E9-447D-B415-1CFE2D100E5A}">
+					<ChildrenList>
+						<Action Name="" ID="{46DD0D5E-A720-4AA7-952B-41E2558E8F9F}" ShortID="703177749">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Error" ID="{B765A60E-9DE8-4387-BF53-C5A8410DC07A}" WorkUnitID="{E573641D-D766-4817-B150-8E428E1ECF80}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_SpotifyMate_com_Levels_Radio_Edit_Avicii" ID="{2CBAFB98-1BA7-499B-AD20-AC6E9F58D06D}">
+					<ChildrenList>
+						<Action Name="" ID="{777C1EAD-D6FB-428F-B960-A1B87F0A2D1D}" ShortID="277170790">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SpotifyMate_com-Levels-Radio-Edit-Avicii" ID="{5CBAD014-6F0F-434F-BF29-523CB85B93F7}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

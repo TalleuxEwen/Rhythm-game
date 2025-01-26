@@ -7,6 +7,7 @@
 					<PropertyList>
 						<Property Name="EnableLoudnessNormalization" Type="bool" Value="True"/>
 						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+						<Property Name="LoudnessNormalizationTarget" Type="Real64" Value="-18"/>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -33,6 +34,7 @@
 					<PropertyList>
 						<Property Name="EnableLoudnessNormalization" Type="bool" Value="True"/>
 						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+						<Property Name="LoudnessNormalizationTarget" Type="Real64" Value="-18"/>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -53,6 +55,33 @@
 					</ChildrenList>
 					<ActiveSourceList>
 						<ActiveSource Name="The_Girl_From_Ipanema__2008_Remastered_" ID="{A9259D11-92FF-4519-9327-FEF02C8E1158}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="SpotifyMate_com-Levels-Radio-Edit-Avicii" ID="{5CBAD014-6F0F-434F-BF29-523CB85B93F7}" ShortID="1038696250">
+					<PropertyList>
+						<Property Name="EnableLoudnessNormalization" Type="bool" Value="True"/>
+						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+						<Property Name="LoudnessNormalizationTarget" Type="Real64" Value="-18"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="StandartConversion" ID="{7FF49705-AEF0-4039-B704-BB576C8CF3C1}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SpotifyMate_com-Levels-Radio-Edit-Avicii" ID="{99B209AE-C436-45D9-B87B-557F88B3AE7D}">
+							<Language>SFX</Language>
+							<AudioFile>SpotifyMate.com-Levels-Radio-Edit-Avicii.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="35198748"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="SpotifyMate_com-Levels-Radio-Edit-Avicii" ID="{99B209AE-C436-45D9-B87B-557F88B3AE7D}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
 			</ChildrenList>
