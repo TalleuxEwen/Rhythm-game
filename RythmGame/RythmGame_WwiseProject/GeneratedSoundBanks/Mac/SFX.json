@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
     "Language": "SFX",
-    "Hash": "{D937AC2C-755A-4436-ECAB-10724810CBEE}",
+    "Hash": "{2933F82C-A2A4-26B6-FBD0-85B4732E7470}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
     "ShortName": "SFX",
     "Path": "SFX.bnk",
@@ -38,6 +38,14 @@
       "Location": "Memory",
       "ShortName": "Guitar Accent Stem.wav",
       "CachePath": "33/{338B102B-A096-591E-4D39-FCAACB11C8FF}.wem"
+     },
+     {
+      "Id": "899877987",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "722375__qubodup__error-1.wav",
+      "CachePath": "55/{55E1357E-1027-4C9A-4672-B56F15B069C3}.wem"
      },
      {
       "Id": "900630553",
@@ -84,6 +92,20 @@
       ]
      },
      {
+      "Id": "2713813216",
+      "Name": "Play_Error",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Error",
+      "GUID": "{396BB69B-D2E9-447D-B415-1CFE2D100E5A}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.42752084",
+      "DurationMax": "0.42752084",
+      "MediaRefs": [
+       {
+        "Id": "899877987"
+       }
+      ]
+     },
+     {
       "Id": "4038696120",
       "Name": "Play_Guitar_Main_Stem",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Guitar_Main_Stem",
@@ -100,6 +122,6 @@
     ]
    }
   ],
-  "FileHash": "{8203BF26-B6F2-57E9-0888-0C2EDE14561D}"
+  "FileHash": "{F6ADB89A-588C-B190-147E-FC084192B45F}"
  }
 }

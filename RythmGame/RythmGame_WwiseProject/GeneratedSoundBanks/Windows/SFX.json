@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
     "Language": "SFX",
-    "Hash": "{23DA48A7-B304-A111-5581-D88AA7450E26}",
+    "Hash": "{948517B7-3CC5-B795-A051-9407F34772A1}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
     "ShortName": "SFX",
     "Path": "SFX.bnk",
@@ -46,6 +46,14 @@
       "Location": "Memory",
       "ShortName": "Guitar Main Stem.wav",
       "CachePath": "63/{63A6C499-2106-9A9E-C33C-04C825CFC889}.wem"
+     },
+     {
+      "Id": "899877987",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "722375__qubodup__error-1.wav",
+      "CachePath": "55/{55E1357E-1027-4C9A-4672-B56F15B069C3}.wem"
      },
      {
       "Id": "900630553",
@@ -92,6 +100,20 @@
       ]
      },
      {
+      "Id": "2713813216",
+      "Name": "Play_Error",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Error",
+      "GUID": "{396BB69B-D2E9-447D-B415-1CFE2D100E5A}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.42752084",
+      "DurationMax": "0.42752084",
+      "MediaRefs": [
+       {
+        "Id": "899877987"
+       }
+      ]
+     },
+     {
       "Id": "4038696120",
       "Name": "Play_Guitar_Main_Stem",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Guitar_Main_Stem",
@@ -108,6 +130,6 @@
     ]
    }
   ],
-  "FileHash": "{B3542C4A-84A4-C1D5-A70E-CD017FC9CBFE}"
+  "FileHash": "{A61DF00C-1E96-D62E-AFD5-5DE3EEA64F12}"
  }
 }
