@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
     "Language": "SFX",
-    "Hash": "{948517B7-3CC5-B795-A051-9407F34772A1}",
+    "Hash": "{DFFF1E83-DCA2-7F5D-1971-7C273BF7A2EE}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
     "ShortName": "SFX",
     "Path": "SFX.bnk",
@@ -29,7 +29,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Guitar Accent Stem.wav",
-      "CachePath": "3B/{3B76F4B8-C971-40C6-837C-CFEA673823D4}.wem"
+      "CachePath": "74/{7441A343-61E9-2D94-BE56-55E2C5CEF500}.wem"
      },
      {
       "Id": "808072116",
@@ -37,7 +37,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Guitar Accent Stem.wav",
-      "CachePath": "33/{338B102B-A096-591E-4D39-FCAACB11C8FF}.wem"
+      "CachePath": "D2/{D2E52258-5CC1-8488-F1A0-2A58210CE943}.wem"
      },
      {
       "Id": "808164559",
@@ -45,7 +45,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Guitar Main Stem.wav",
-      "CachePath": "63/{63A6C499-2106-9A9E-C33C-04C825CFC889}.wem"
+      "CachePath": "CD/{CDEA8B44-D13B-5382-8D71-F78AFEB0AFC2}.wem"
      },
      {
       "Id": "899877987",
@@ -61,7 +61,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Guitar Accent Stem.wav",
-      "CachePath": "1B/{1B7A7DC8-67FF-7DB0-5048-E2C46C22A466}.wem"
+      "CachePath": "8A/{8AC5641A-69D4-8481-B706-BF36F724DF20}.wem"
      },
      {
       "Id": "975956616",
@@ -69,7 +69,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Guitar Riff Stem.wav",
-      "CachePath": "0E/{0E62F7F9-4524-9C5E-F669-5B98F2A0FC14}.wem"
+      "CachePath": "F7/{F7F4E02E-5053-2DE4-CDF5-8997981C21AD}.wem"
      }
     ],
     "Events": [
@@ -130,6 +130,6 @@
     ]
    }
   ],
-  "FileHash": "{A61DF00C-1E96-D62E-AFD5-5DE3EEA64F12}"
+  "FileHash": "{046FDA98-B391-2B66-7A61-60285FB4CDE7}"
  }
 }
