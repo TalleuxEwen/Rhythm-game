@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{6B896A13-DC7A-4A42-9804-D913A9915CEA}",
     "Language": "SFX",
-    "Hash": "{11501859-75E6-30B4-0757-DAE712E98147}",
+    "Hash": "{7C0F364B-625A-DDE4-58D6-BBCF28241216}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_TitleScreenMusics",
     "ShortName": "SB_TitleScreenMusics",
     "Path": "SB_TitleScreenMusics.bnk",
@@ -22,6 +22,14 @@
       "Location": "Memory",
       "ShortName": "SpotifyMate.com-Levels-Radio-Edit-Avicii.wav",
       "CachePath": "0A/{0A2740DD-7BC3-C85B-A7BF-E539C0E2470A}.wem"
+     },
+     {
+      "Id": "156474829",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Flatline.wav",
+      "CachePath": "FD/{FD461DB0-0275-3C5A-EA4A-3AF75FFA2270}.wem"
      },
      {
       "Id": "186236163",
@@ -41,6 +49,20 @@
      }
     ],
     "Events": [
+     {
+      "Id": "1857437241",
+      "Name": "Play_Flatline",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Flatline",
+      "GUID": "{EA3076E0-E69A-484F-BF80-BFC93CBF364A}",
+      "DurationType": "OneShot",
+      "DurationMin": "129.47447",
+      "DurationMax": "129.47447",
+      "MediaRefs": [
+       {
+        "Id": "156474829"
+       }
+      ]
+     },
      {
       "Id": "2180748824",
       "Name": "Play_SpotifyMate_com_Levels_Radio_Edit_Avicii",
@@ -96,6 +118,6 @@
     ]
    }
   ],
-  "FileHash": "{24ADAF09-1ECF-757D-CF94-8E59EE517BA4}"
+  "FileHash": "{EBA2E2BC-1B67-F1B5-EAB9-B67039660B4F}"
  }
 }

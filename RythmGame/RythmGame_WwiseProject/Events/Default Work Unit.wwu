@@ -80,6 +80,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Flatline" ID="{EA3076E0-E69A-484F-BF80-BFC93CBF364A}">
+					<ChildrenList>
+						<Action Name="" ID="{164E6A3F-4641-4A8F-9F6B-662E5D023B72}" ShortID="592457475">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Flatline" ID="{7AD70969-2F6D-42B1-8EAA-030052649369}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
