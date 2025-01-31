@@ -1,6 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" SchemaVersion="123">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Seek_The_Girl_From_Ipanema__2008_Remastered_" ID="{77F4B426-A102-49F5-8409-80DE63840E1C}">
+					<ChildrenList>
+						<Action Name="" ID="{11EEAF12-02B7-4D29-914C-71752DDA0696}" ShortID="720909812">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The_Girl_From_Ipanema__2008_Remastered_" ID="{5BD29396-FCEF-4CFE-B5CD-A825EB59C280}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Lemonheads___Mrs__Robinson__Remastered_" ID="{29471E65-4E9E-43B4-B5ED-454A6C89B12E}">
+					<ChildrenList>
+						<Action Name="" ID="{5070BBF3-FFB3-4745-8CB4-77271767EA74}" ShortID="766894754">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The_Lemonheads_-_Mrs__Robinson_(Remastered)" ID="{DB7713C0-7CCE-4CFD-98FF-391C3B5009BA}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Guitar_Main_Stem" ID="{A8A4638A-2CB8-4731-8630-AF0295E7B14E}">
+					<ChildrenList>
+						<Action Name="" ID="{9A1885EE-DBE5-4C85-A5BC-29B614C444CB}" ShortID="154287208">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Guitar Main Stem" ID="{B8CC1385-68F4-4191-AEE2-A1E8EAA81D2B}" WorkUnitID="{E573641D-D766-4817-B150-8E428E1ECF80}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="StopAll" ID="{81BEE1CD-BA02-42C8-9A05-F789FFCD76C3}">
+					<ChildrenList>
+						<Action Name="" ID="{D0918945-39A1-4513-8FEC-C952421B2E97}" ShortID="458482909">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+								<Property Name="FadeTime" Type="Real64" Value="2.5"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ButtonMenuInteract" ID="{10C29978-0605-405B-84F1-1901063D1B9D}">
+					<ChildrenList>
+						<Action Name="" ID="{7AA5A5A2-BECF-4CC8-B585-F432C616B898}" ShortID="311396985">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ButtonMenuInteract" ID="{B9383728-893B-4F74-B8A4-DF02953ECBBA}" WorkUnitID="{E573641D-D766-4817-B150-8E428E1ECF80}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Error" ID="{396BB69B-D2E9-447D-B415-1CFE2D100E5A}">
+					<ChildrenList>
+						<Action Name="" ID="{46DD0D5E-A720-4AA7-952B-41E2558E8F9F}" ShortID="703177749">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Error" ID="{B765A60E-9DE8-4387-BF53-C5A8410DC07A}" WorkUnitID="{E573641D-D766-4817-B150-8E428E1ECF80}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_SpotifyMate_com_Levels_Radio_Edit_Avicii" ID="{2CBAFB98-1BA7-499B-AD20-AC6E9F58D06D}">
+					<ChildrenList>
+						<Action Name="" ID="{777C1EAD-D6FB-428F-B960-A1B87F0A2D1D}" ShortID="277170790">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SpotifyMate_com-Levels-Radio-Edit-Avicii" ID="{5CBAD014-6F0F-434F-BF29-523CB85B93F7}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Flatline" ID="{EA3076E0-E69A-484F-BF80-BFC93CBF364A}">
+					<ChildrenList>
+						<Action Name="" ID="{164E6A3F-4641-4A8F-9F6B-662E5D023B72}" ShortID="592457475">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Flatline" ID="{7AD70969-2F6D-42B1-8EAA-030052649369}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

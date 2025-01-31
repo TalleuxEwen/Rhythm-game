@@ -1,0 +1,123 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "241258205",
+    "Type": "User",
+    "GUID": "{6B896A13-DC7A-4A42-9804-D913A9915CEA}",
+    "Language": "SFX",
+    "Hash": "{7C0F364B-625A-DDE4-58D6-BBCF28241216}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_TitleScreenMusics",
+    "ShortName": "SB_TitleScreenMusics",
+    "Path": "SB_TitleScreenMusics.bnk",
+    "Media": [
+     {
+      "Id": "35198748",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SpotifyMate.com-Levels-Radio-Edit-Avicii.wav",
+      "CachePath": "0A/{0A2740DD-7BC3-C85B-A7BF-E539C0E2470A}.wem"
+     },
+     {
+      "Id": "156474829",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Flatline.wav",
+      "CachePath": "FD/{FD461DB0-0275-3C5A-EA4A-3AF75FFA2270}.wem"
+     },
+     {
+      "Id": "186236163",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "The_Lemonheads_-_Mrs._Robinson_(Remastered).wav",
+      "CachePath": "2F/{2F182917-DDCF-5B7C-A38B-CDE74D3E8701}.wem"
+     },
+     {
+      "Id": "318042382",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "The_Girl_From_Ipanema__2008_Remastered_.wav",
+      "CachePath": "3A/{3A3EF9FD-D516-8DF9-C6BA-6D53CE91E19D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1857437241",
+      "Name": "Play_Flatline",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Flatline",
+      "GUID": "{EA3076E0-E69A-484F-BF80-BFC93CBF364A}",
+      "DurationType": "OneShot",
+      "DurationMin": "129.47447",
+      "DurationMax": "129.47447",
+      "MediaRefs": [
+       {
+        "Id": "156474829"
+       }
+      ]
+     },
+     {
+      "Id": "2180748824",
+      "Name": "Play_SpotifyMate_com_Levels_Radio_Edit_Avicii",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_SpotifyMate_com_Levels_Radio_Edit_Avicii",
+      "GUID": "{2CBAFB98-1BA7-499B-AD20-AC6E9F58D06D}",
+      "DurationType": "OneShot",
+      "DurationMin": "198.27045",
+      "DurationMax": "198.27045",
+      "MediaRefs": [
+       {
+        "Id": "35198748"
+       }
+      ]
+     },
+     {
+      "Id": "1308217568",
+      "Name": "Play_The_Lemonheads___Mrs__Robinson__Remastered_",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_The_Lemonheads___Mrs__Robinson__Remastered_",
+      "GUID": "{29471E65-4E9E-43B4-B5ED-454A6C89B12E}",
+      "DurationType": "OneShot",
+      "DurationMin": "225.00136",
+      "DurationMax": "225.00136",
+      "MediaRefs": [
+       {
+        "Id": "186236163"
+       }
+      ]
+     },
+     {
+      "Id": "1637566289",
+      "Name": "Seek_The_Girl_From_Ipanema__2008_Remastered_",
+      "ObjectPath": "\\Events\\Default Work Unit\\Seek_The_Girl_From_Ipanema__2008_Remastered_",
+      "GUID": "{77F4B426-A102-49F5-8409-80DE63840E1C}",
+      "DurationType": "OneShot",
+      "DurationMin": "194.07239",
+      "DurationMax": "194.07239",
+      "MediaRefs": [
+       {
+        "Id": "318042382"
+       }
+      ]
+     },
+     {
+      "Id": "3086540886",
+      "Name": "StopAll",
+      "ObjectPath": "\\Events\\Default Work Unit\\StopAll",
+      "GUID": "{81BEE1CD-BA02-42C8-9A05-F789FFCD76C3}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{EBA2E2BC-1B67-F1B5-EAB9-B67039660B4F}"
+ }
+}
