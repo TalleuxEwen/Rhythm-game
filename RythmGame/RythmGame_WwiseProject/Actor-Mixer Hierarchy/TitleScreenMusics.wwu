@@ -14,7 +14,7 @@
 							<ObjectRef Name="StandartConversion" ID="{7FF49705-AEF0-4039-B704-BB576C8CF3C1}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+							<ObjectRef Name="MusicBus" ID="{70E3DB4B-A1D4-474A-9175-A484D5A4FF19}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
@@ -41,7 +41,7 @@
 							<ObjectRef Name="StandartConversion" ID="{7FF49705-AEF0-4039-B704-BB576C8CF3C1}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+							<ObjectRef Name="MusicBus" ID="{70E3DB4B-A1D4-474A-9175-A484D5A4FF19}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
@@ -68,7 +68,7 @@
 							<ObjectRef Name="StandartConversion" ID="{7FF49705-AEF0-4039-B704-BB576C8CF3C1}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+							<ObjectRef Name="MusicBus" ID="{70E3DB4B-A1D4-474A-9175-A484D5A4FF19}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
@@ -95,7 +95,7 @@
 							<ObjectRef Name="StandartConversion" ID="{7FF49705-AEF0-4039-B704-BB576C8CF3C1}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+							<ObjectRef Name="MusicBus" ID="{70E3DB4B-A1D4-474A-9175-A484D5A4FF19}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>

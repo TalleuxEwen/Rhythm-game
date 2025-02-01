@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
     "Language": "SFX",
-    "Hash": "{DFFF1E83-DCA2-7F5D-1971-7C273BF7A2EE}",
+    "Hash": "{D3AE1B36-1103-26A9-488A-07CF08E88D10}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
     "ShortName": "SFX",
     "Path": "SFX.bnk",
@@ -72,6 +72,18 @@
       "CachePath": "F7/{F7F4E02E-5053-2DE4-CDF5-8997981C21AD}.wem"
      }
     ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "1067492012",
+       "Name": "Audio Input",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Input\\Audio Input",
+       "GUID": "{4A987872-6569-42CE-8E85-411547411C5F}",
+       "LibName": "Wwise Audio Input",
+       "LibId": "13107202"
+      }
+     ]
+    },
     "Events": [
      {
       "Id": "1422873489",
@@ -126,10 +138,32 @@
         "Id": "330029483"
        }
       ]
+     },
+     {
+      "Id": "3320890222",
+      "Name": "Play_Input",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Input",
+      "GUID": "{851AFD61-8EE4-4AE6-93F8-903A1ADD4C57}",
+      "DurationType": "Unknown",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "1067492012"
+        }
+       ]
+      }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2346531308",
+      "Name": "MusicVolume",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\MusicVolume",
+      "GUID": "{ECBB398F-7E3F-4A29-B2A0-2F6C3D946A40}"
      }
     ]
    }
   ],
-  "FileHash": "{046FDA98-B391-2B66-7A61-60285FB4CDE7}"
+  "FileHash": "{53F5F537-9861-AF94-36F1-6A46EE7E7B06}"
  }
 }

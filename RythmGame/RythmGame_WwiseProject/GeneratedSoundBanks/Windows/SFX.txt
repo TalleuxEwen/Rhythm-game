@@ -1,7 +1,14 @@
 Event	ID	Name			Wwise Object Path	Notes
 	1422873489	Play_ButtonMenuInteract			\Default Work Unit\Play_ButtonMenuInteract	
 	2713813216	Play_Error			\Default Work Unit\Play_Error	
+	3320890222	Play_Input			\Default Work Unit\Play_Input	
 	4038696120	Play_Guitar_Main_Stem			\Default Work Unit\Play_Guitar_Main_Stem	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2346531308	MusicVolume			\Default Work Unit\MusicVolume	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	1067492012	Audio Input	Wwise Audio Input		\Actor-Mixer Hierarchy\Default Work Unit\Input\Audio Input	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	330029483	Guitar Main Stem	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\C8\{C8D9D2E5-4B51-95C6-50DD-48C39ACAD485}.wem		\Actor-Mixer Hierarchy\SFX\Guitar Main Stem		53038

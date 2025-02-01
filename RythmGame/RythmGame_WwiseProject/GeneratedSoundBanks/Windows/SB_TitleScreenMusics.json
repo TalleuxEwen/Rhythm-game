@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{6B896A13-DC7A-4A42-9804-D913A9915CEA}",
     "Language": "SFX",
-    "Hash": "{7C0F364B-625A-DDE4-58D6-BBCF28241216}",
+    "Hash": "{3CD39549-3541-FFF6-9EFA-6BED56130FB6}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_TitleScreenMusics",
     "ShortName": "SB_TitleScreenMusics",
     "Path": "SB_TitleScreenMusics.bnk",
@@ -118,6 +118,6 @@
     ]
    }
   ],
-  "FileHash": "{EBA2E2BC-1B67-F1B5-EAB9-B67039660B4F}"
+  "FileHash": "{A347B70E-027C-670C-426C-184DDDEEC1B4}"
  }
 }

@@ -91,6 +91,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Input" ID="{851AFD61-8EE4-4AE6-93F8-903A1ADD4C57}">
+					<ChildrenList>
+						<Action Name="" ID="{0B2918B7-5F65-4C96-9359-3D6CFB26E9C3}" ShortID="1021934877">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Input" ID="{5FA695C4-CB1A-4A3B-994B-4C53A3C965E8}" WorkUnitID="{14CAC91A-2ECA-4DA4-AE47-24113D5E9D6A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
