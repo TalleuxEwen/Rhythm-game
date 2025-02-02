@@ -10,11 +10,19 @@
     "Type": "User",
     "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
     "Language": "SFX",
-    "Hash": "{D3AE1B36-1103-26A9-488A-07CF08E88D10}",
+    "Hash": "{04467241-BAEB-A19F-3C9F-2503B9294351}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
     "ShortName": "SFX",
     "Path": "SFX.bnk",
     "Media": [
+     {
+      "Id": "84529755",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "318968__djm62__successarpeggio.wav",
+      "CachePath": "0A/{0A173C05-9943-3539-3EEA-914DBCB1EE73}.wem"
+     },
      {
       "Id": "330029483",
       "Language": "SFX",
@@ -30,6 +38,14 @@
       "Location": "Memory",
       "ShortName": "Guitar Accent Stem.wav",
       "CachePath": "74/{7441A343-61E9-2D94-BE56-55E2C5CEF500}.wem"
+     },
+     {
+      "Id": "722983491",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "483709__camouflaged_noob__button2.wav",
+      "CachePath": "38/{38BC53C5-510D-004C-B867-C2CDB738DE35}.wem"
      },
      {
       "Id": "808072116",
@@ -85,6 +101,34 @@
      ]
     },
     "Events": [
+     {
+      "Id": "2751331915",
+      "Name": "Play_318968__djm62__successarpeggio",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_318968__djm62__successarpeggio",
+      "GUID": "{CA71F4A8-E768-4DF3-856F-71FFA215E0FC}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.38022676",
+      "DurationMax": "0.38022676",
+      "MediaRefs": [
+       {
+        "Id": "84529755"
+       }
+      ]
+     },
+     {
+      "Id": "227172562",
+      "Name": "Play_483709__camouflaged_noob__button2",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_483709__camouflaged_noob__button2",
+      "GUID": "{540355DB-B86F-4829-993D-66468723CA63}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.36135417",
+      "DurationMax": "0.36135417",
+      "MediaRefs": [
+       {
+        "Id": "722983491"
+       }
+      ]
+     },
      {
       "Id": "1422873489",
       "Name": "Play_ButtonMenuInteract",
@@ -164,6 +208,6 @@
     ]
    }
   ],
-  "FileHash": "{53F5F537-9861-AF94-36F1-6A46EE7E7B06}"
+  "FileHash": "{7A36617A-5F39-909C-1FA6-4BE663AC868A}"
  }
 }

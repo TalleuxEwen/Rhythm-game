@@ -19,7 +19,9 @@
 						<ObjectRef Name="Play_ButtonMenuInteract" ID="{10C29978-0605-405B-84F1-1901063D1B9D}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_Error" ID="{396BB69B-D2E9-447D-B415-1CFE2D100E5A}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_Guitar_Main_Stem" ID="{A8A4638A-2CB8-4731-8630-AF0295E7B14E}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_483709__camouflaged_noob__button2" ID="{540355DB-B86F-4829-993D-66468723CA63}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_Input" ID="{851AFD61-8EE4-4AE6-93F8-903A1ADD4C57}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_318968__djm62__successarpeggio" ID="{CA71F4A8-E768-4DF3-856F-71FFA215E0FC}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
