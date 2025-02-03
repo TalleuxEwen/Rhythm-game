@@ -49,6 +49,14 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "MassEntity",
+			"Enabled": true
+		},
+		{
+			"Name": "MassCrowd",
+			"Enabled": true
 		}
 	]
 }
