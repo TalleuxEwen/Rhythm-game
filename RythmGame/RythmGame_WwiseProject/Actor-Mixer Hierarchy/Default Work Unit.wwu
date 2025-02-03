@@ -1,6 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{14CAC91A-2ECA-4DA4-AE47-24113D5E9D6A}" SchemaVersion="123">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{14CAC91A-2ECA-4DA4-AE47-24113D5E9D6A}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{14CAC91A-2ECA-4DA4-AE47-24113D5E9D6A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Input" ID="{5FA695C4-CB1A-4A3B-994B-4C53A3C965E8}" ShortID="845290440">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="Audio Input" ID="{4A987872-6569-42CE-8E85-411547411C5F}" ShortID="1067492012" PluginName="Wwise Audio Input" CompanyID="0" PluginID="200">
+							<ObjectLists>
+								<ObjectList Name="RTPC">
+									<Reference>
+										<Local>
+											<RTPC Name="" ID="{FA495AE1-1ADB-4D72-8999-A5138FF3BA2A}" ShortID="269862928">
+												<PropertyList>
+													<Property Name="PropertyName" Type="string" Value="AudioInputGain"/>
+												</PropertyList>
+												<ReferenceList>
+													<Reference Name="ControlInput">
+														<ObjectRef Name="MusicVolume" ID="{ECBB398F-7E3F-4A29-B2A0-2F6C3D946A40}" WorkUnitID="{06144FDC-2998-4CFC-8636-008FAE468783}"/>
+													</Reference>
+													<Reference Name="Curve">
+														<Custom>
+															<Curve Name="" ID="{A0C3A2CB-D170-4CC1-B872-712419B04E81}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>-96.3000030517578</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>100</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</Custom>
+													</Reference>
+												</ReferenceList>
+											</RTPC>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+							<Language>SFX</Language>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists>
+						<ObjectList Name="RTPC">
+							<Reference>
+								<Local>
+									<RTPC Name="" ID="{DDE561AE-BE91-4D26-A6C4-B6F498AA534B}" ShortID="778077169">
+										<PropertyList>
+											<Property Name="PropertyName" Type="string" Value="Volume"/>
+										</PropertyList>
+										<ReferenceList>
+											<Reference Name="ControlInput">
+												<ObjectRef Name="MusicVolume" ID="{ECBB398F-7E3F-4A29-B2A0-2F6C3D946A40}" WorkUnitID="{06144FDC-2998-4CFC-8636-008FAE468783}"/>
+											</Reference>
+											<Reference Name="Curve">
+												<Custom>
+													<Curve Name="" ID="{D7DB539E-1FBA-4D2E-85C7-0E0096EEE19E}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="3"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>-200</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>0</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</Custom>
+											</Reference>
+										</ReferenceList>
+									</RTPC>
+								</Local>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
+					<ActiveSourceList>
+						<ActiveSource Name="Audio Input" ID="{4A987872-6569-42CE-8E85-411547411C5F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>

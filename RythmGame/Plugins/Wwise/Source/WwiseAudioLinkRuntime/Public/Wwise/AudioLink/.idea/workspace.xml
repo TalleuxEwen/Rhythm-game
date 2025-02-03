@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03f53aeb-442d-46fa-8471-b740571b9342" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Config/DefaultGame.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Content/Editor/Blueprints/WBP_SongSelect.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Content/Editor/Blueprints/WBP_SongSelect.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Content/Editor/Blueprints/WBP_SongSelection.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Content/Editor/Blueprints/WBP_SongSelection.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/BP_Saver.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/BP_Saver.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/InGame/WBP_GameOver.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/InGame/WBP_GameOver.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/Options/WBP_KeyMapping.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/Options/WBP_KeyMapping.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/Options/WBP_Options.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/Options/WBP_Options.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/WBP_HighScore.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/WBP_HighScore.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/WBP_TitleScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Content/UITemplate/Widgets/WBP_TitleScreen.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/Init.bnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/Init.bnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/Init.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/Init.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/Init.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/Init.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/PluginInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/PluginInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/SFX.bnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/SFX.bnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/SFX.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/SFX.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/SFX.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../RythmGame_WwiseProject/GeneratedSoundBanks/Windows/SFX.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TalleuxEwen"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TalleuxEwen/Rhythm-game.git",
+    "accountId": "66514dbb-fd52-4884-a9da-3a10d0e60d5b"
+  }
+}]]></component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2sPd5RKlcNlUH1t3qcImxX718VW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "feat/editor",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03f53aeb-442d-46fa-8471-b740571b9342" name="Changes" comment="" />
+      <created>1738360964191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738360964191</updated>
+      <workItem from="1738360966589" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -10,11 +10,19 @@
     "Type": "User",
     "GUID": "{0473D949-1FC5-4982-B984-2B8A3A2D0E98}",
     "Language": "SFX",
-    "Hash": "{DFFF1E83-DCA2-7F5D-1971-7C273BF7A2EE}",
+    "Hash": "{04467241-BAEB-A19F-3C9F-2503B9294351}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
     "ShortName": "SFX",
     "Path": "SFX.bnk",
     "Media": [
+     {
+      "Id": "84529755",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "318968__djm62__successarpeggio.wav",
+      "CachePath": "0A/{0A173C05-9943-3539-3EEA-914DBCB1EE73}.wem"
+     },
      {
       "Id": "330029483",
       "Language": "SFX",
@@ -30,6 +38,14 @@
       "Location": "Memory",
       "ShortName": "Guitar Accent Stem.wav",
       "CachePath": "74/{7441A343-61E9-2D94-BE56-55E2C5CEF500}.wem"
+     },
+     {
+      "Id": "722983491",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "483709__camouflaged_noob__button2.wav",
+      "CachePath": "38/{38BC53C5-510D-004C-B867-C2CDB738DE35}.wem"
      },
      {
       "Id": "808072116",
@@ -72,7 +88,47 @@
       "CachePath": "F7/{F7F4E02E-5053-2DE4-CDF5-8997981C21AD}.wem"
      }
     ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "1067492012",
+       "Name": "Audio Input",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Input\\Audio Input",
+       "GUID": "{4A987872-6569-42CE-8E85-411547411C5F}",
+       "LibName": "Wwise Audio Input",
+       "LibId": "13107202"
+      }
+     ]
+    },
     "Events": [
+     {
+      "Id": "2751331915",
+      "Name": "Play_318968__djm62__successarpeggio",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_318968__djm62__successarpeggio",
+      "GUID": "{CA71F4A8-E768-4DF3-856F-71FFA215E0FC}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.38022676",
+      "DurationMax": "0.38022676",
+      "MediaRefs": [
+       {
+        "Id": "84529755"
+       }
+      ]
+     },
+     {
+      "Id": "227172562",
+      "Name": "Play_483709__camouflaged_noob__button2",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_483709__camouflaged_noob__button2",
+      "GUID": "{540355DB-B86F-4829-993D-66468723CA63}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.36135417",
+      "DurationMax": "0.36135417",
+      "MediaRefs": [
+       {
+        "Id": "722983491"
+       }
+      ]
+     },
      {
       "Id": "1422873489",
       "Name": "Play_ButtonMenuInteract",
@@ -126,10 +182,32 @@
         "Id": "330029483"
        }
       ]
+     },
+     {
+      "Id": "3320890222",
+      "Name": "Play_Input",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Input",
+      "GUID": "{851AFD61-8EE4-4AE6-93F8-903A1ADD4C57}",
+      "DurationType": "Unknown",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "1067492012"
+        }
+       ]
+      }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2346531308",
+      "Name": "MusicVolume",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\MusicVolume",
+      "GUID": "{ECBB398F-7E3F-4A29-B2A0-2F6C3D946A40}"
      }
     ]
    }
   ],
-  "FileHash": "{046FDA98-B391-2B66-7A61-60285FB4CDE7}"
+  "FileHash": "{7A36617A-5F39-909C-1FA6-4BE663AC868A}"
  }
 }

@@ -1,11 +1,22 @@
 Event	ID	Name			Wwise Object Path	Notes
+	227172562	Play_483709__camouflaged_noob__button2			\Default Work Unit\Play_483709__camouflaged_noob__button2	
 	1422873489	Play_ButtonMenuInteract			\Default Work Unit\Play_ButtonMenuInteract	
 	2713813216	Play_Error			\Default Work Unit\Play_Error	
+	2751331915	Play_318968__djm62__successarpeggio			\Default Work Unit\Play_318968__djm62__successarpeggio	
+	3320890222	Play_Input			\Default Work Unit\Play_Input	
 	4038696120	Play_Guitar_Main_Stem			\Default Work Unit\Play_Guitar_Main_Stem	
 
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2346531308	MusicVolume			\Default Work Unit\MusicVolume	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	1067492012	Audio Input	Wwise Audio Input		\Actor-Mixer Hierarchy\Default Work Unit\Input\Audio Input	
+
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	84529755	318968__djm62__successarpeggio	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\0A\{0A173C05-9943-3539-3EEA-914DBCB1EE73}.wem		\Actor-Mixer Hierarchy\SFX\318968__djm62__successarpeggio		1805
 	330029483	Guitar Main Stem	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\C8\{C8D9D2E5-4B51-95C6-50DD-48C39ACAD485}.wem		\Actor-Mixer Hierarchy\SFX\Guitar Main Stem		53038
 	399991542	Interact5	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\74\{7441A343-61E9-2D94-BE56-55E2C5CEF500}.wem		\Actor-Mixer Hierarchy\SFX\ButtonMenuInteract\Interact5		232360
+	722983491	483709__camouflaged_noob__button2	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\38\{38BC53C5-510D-004C-B867-C2CDB738DE35}.wem		\Actor-Mixer Hierarchy\SFX\483709__camouflaged_noob__button2		876
 	808072116	Interact3	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\D2\{D2E52258-5CC1-8488-F1A0-2A58210CE943}.wem		\Actor-Mixer Hierarchy\SFX\ButtonMenuInteract\Interact3		185348
 	808164559	Interact2	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\CD\{CDEA8B44-D13B-5382-8D71-F78AFEB0AFC2}.wem		\Actor-Mixer Hierarchy\SFX\ButtonMenuInteract\Interact2		125160
 	899877987	Error	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\55\{55E1357E-1027-4C9A-4672-B56F15B069C3}.wem		\Actor-Mixer Hierarchy\SFX\Error		82180
