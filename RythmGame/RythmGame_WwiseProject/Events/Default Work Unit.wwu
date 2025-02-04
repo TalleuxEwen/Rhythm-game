@@ -124,6 +124,39 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_SpotifyMate_com_Secrets_Radio_Edit_Ti_sto" ID="{FAFE9484-7109-4E2F-8142-10464B44BFE0}">
+					<ChildrenList>
+						<Action Name="" ID="{2039CE14-3B49-4372-9AFE-B372C60BAB6E}" ShortID="710085638">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SpotifyMate_com-Secrets-Radio-Edit-Tiësto" ID="{52618E08-D444-4476-B297-AEE9913E0A3A}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_SpotifyMate_com_Teenage_Dirtbag_Wheatus" ID="{3CC26545-B381-4F82-8A8F-975A21E72328}">
+					<ChildrenList>
+						<Action Name="" ID="{54134BA8-E9C2-41A4-91A4-BEC9A8102100}" ShortID="1019386463">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SpotifyMate_com-Teenage-Dirtbag-Wheatus" ID="{1F2C5038-C1F4-40D2-A7CA-07C56E916E26}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_SpotifyMate_com_The_Thrill_Bayfront_View" ID="{9764AB39-3B76-4E99-A586-824FAB6CED12}">
+					<ChildrenList>
+						<Action Name="" ID="{A75BF45B-7026-4D7B-8725-92873F6339F2}" ShortID="1066335518">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SpotifyMate_com-The-Thrill-Bayfront-View" ID="{9875826A-C1D7-460B-997F-5026523F0827}" WorkUnitID="{9855BBB2-DB87-4C1C-9F40-3F63432FC961}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

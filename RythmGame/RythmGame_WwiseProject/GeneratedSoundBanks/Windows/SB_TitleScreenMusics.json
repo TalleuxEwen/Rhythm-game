@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{6B896A13-DC7A-4A42-9804-D913A9915CEA}",
     "Language": "SFX",
-    "Hash": "{3CD39549-3541-FFF6-9EFA-6BED56130FB6}",
+    "Hash": "{3C8B3382-C08C-3D68-CE93-E55F4F7711DB}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_TitleScreenMusics",
     "ShortName": "SB_TitleScreenMusics",
     "Path": "SB_TitleScreenMusics.bnk",
@@ -46,6 +46,30 @@
       "Location": "Memory",
       "ShortName": "The_Girl_From_Ipanema__2008_Remastered_.wav",
       "CachePath": "3A/{3A3EF9FD-D516-8DF9-C6BA-6D53CE91E19D}.wem"
+     },
+     {
+      "Id": "405579634",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SpotifyMate.com-Teenage-Dirtbag-Wheatus.wav",
+      "CachePath": "31/{31739ABC-9CAD-720F-25D4-F7126B8DFE02}.wem"
+     },
+     {
+      "Id": "514280357",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SpotifyMate.com-The-Thrill-Bayfront-View.wav",
+      "CachePath": "E6/{E64363CE-6BC3-5797-5D27-AFFFFF682493}.wem"
+     },
+     {
+      "Id": "950646023",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SpotifyMate.com-Secrets-Radio-Edit-Tiësto.wav",
+      "CachePath": "24/{247D4406-9553-E6CD-4305-F686072673ED}.wem"
      }
     ],
     "Events": [
@@ -74,6 +98,48 @@
       "MediaRefs": [
        {
         "Id": "35198748"
+       }
+      ]
+     },
+     {
+      "Id": "1488472565",
+      "Name": "Play_SpotifyMate_com_Secrets_Radio_Edit_Ti_sto",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_SpotifyMate_com_Secrets_Radio_Edit_Ti_sto",
+      "GUID": "{FAFE9484-7109-4E2F-8142-10464B44BFE0}",
+      "DurationType": "OneShot",
+      "DurationMin": "217.02637",
+      "DurationMax": "217.02637",
+      "MediaRefs": [
+       {
+        "Id": "950646023"
+       }
+      ]
+     },
+     {
+      "Id": "3401072247",
+      "Name": "Play_SpotifyMate_com_Teenage_Dirtbag_Wheatus",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_SpotifyMate_com_Teenage_Dirtbag_Wheatus",
+      "GUID": "{3CC26545-B381-4F82-8A8F-975A21E72328}",
+      "DurationType": "OneShot",
+      "DurationMin": "240.37984",
+      "DurationMax": "240.37984",
+      "MediaRefs": [
+       {
+        "Id": "405579634"
+       }
+      ]
+     },
+     {
+      "Id": "3048221749",
+      "Name": "Play_SpotifyMate_com_The_Thrill_Bayfront_View",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_SpotifyMate_com_The_Thrill_Bayfront_View",
+      "GUID": "{9764AB39-3B76-4E99-A586-824FAB6CED12}",
+      "DurationType": "OneShot",
+      "DurationMin": "201.84961",
+      "DurationMax": "201.84961",
+      "MediaRefs": [
+       {
+        "Id": "514280357"
        }
       ]
      },
@@ -118,6 +184,6 @@
     ]
    }
   ],
-  "FileHash": "{A347B70E-027C-670C-426C-184DDDEEC1B4}"
+  "FileHash": "{01E8B847-646E-A64F-B6EA-84C4299B7318}"
  }
 }

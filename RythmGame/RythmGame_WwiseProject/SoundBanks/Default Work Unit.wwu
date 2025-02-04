@@ -10,6 +10,9 @@
 						<ObjectRef Name="Play_Flatline" ID="{EA3076E0-E69A-484F-BF80-BFC93CBF364A}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_SpotifyMate_com_Levels_Radio_Edit_Avicii" ID="{2CBAFB98-1BA7-499B-AD20-AC6E9F58D06D}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Seek_The_Girl_From_Ipanema__2008_Remastered_" ID="{77F4B426-A102-49F5-8409-80DE63840E1C}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SpotifyMate_com_Secrets_Radio_Edit_Ti_sto" ID="{FAFE9484-7109-4E2F-8142-10464B44BFE0}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SpotifyMate_com_The_Thrill_Bayfront_View" ID="{9764AB39-3B76-4E99-A586-824FAB6CED12}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SpotifyMate_com_Teenage_Dirtbag_Wheatus" ID="{3CC26545-B381-4F82-8A8F-975A21E72328}" WorkUnitID="{33FD8473-FD3A-4372-9A1A-AD6C234090C1}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

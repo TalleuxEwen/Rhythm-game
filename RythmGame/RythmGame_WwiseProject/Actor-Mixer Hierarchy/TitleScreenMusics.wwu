@@ -111,6 +111,87 @@
 						<ActiveSource Name="Flatline" ID="{D1763B95-8587-4A75-9402-19A2B35BB869}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="SpotifyMate_com-Secrets-Radio-Edit-Tiësto" ID="{52618E08-D444-4476-B297-AEE9913E0A3A}" ShortID="168707192">
+					<PropertyList>
+						<Property Name="EnableLoudnessNormalization" Type="bool" Value="True"/>
+						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+						<Property Name="LoudnessNormalizationTarget" Type="Real64" Value="-18"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="StandartConversion" ID="{7FF49705-AEF0-4039-B704-BB576C8CF3C1}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="MusicBus" ID="{70E3DB4B-A1D4-474A-9175-A484D5A4FF19}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SpotifyMate_com-Secrets-Radio-Edit-Tiësto" ID="{87DF81CE-E57C-4535-A4AB-1C401B850600}">
+							<Language>SFX</Language>
+							<AudioFile>SpotifyMate.com-Secrets-Radio-Edit-Tiësto.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="950646023"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="SpotifyMate_com-Secrets-Radio-Edit-Tiësto" ID="{87DF81CE-E57C-4535-A4AB-1C401B850600}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="SpotifyMate_com-The-Thrill-Bayfront-View" ID="{9875826A-C1D7-460B-997F-5026523F0827}" ShortID="729438219">
+					<PropertyList>
+						<Property Name="EnableLoudnessNormalization" Type="bool" Value="True"/>
+						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+						<Property Name="LoudnessNormalizationTarget" Type="Real64" Value="-18"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="StandartConversion" ID="{7FF49705-AEF0-4039-B704-BB576C8CF3C1}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="MusicBus" ID="{70E3DB4B-A1D4-474A-9175-A484D5A4FF19}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SpotifyMate_com-The-Thrill-Bayfront-View" ID="{F10E785A-BD53-4B5B-AEDE-C124FEF824CE}">
+							<Language>SFX</Language>
+							<AudioFile>SpotifyMate.com-The-Thrill-Bayfront-View.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="514280357"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="SpotifyMate_com-The-Thrill-Bayfront-View" ID="{F10E785A-BD53-4B5B-AEDE-C124FEF824CE}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="SpotifyMate_com-Teenage-Dirtbag-Wheatus" ID="{1F2C5038-C1F4-40D2-A7CA-07C56E916E26}" ShortID="1052530800">
+					<PropertyList>
+						<Property Name="EnableLoudnessNormalization" Type="bool" Value="True"/>
+						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+						<Property Name="LoudnessNormalizationTarget" Type="Real64" Value="-18"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="StandartConversion" ID="{7FF49705-AEF0-4039-B704-BB576C8CF3C1}" WorkUnitID="{7EEF38A2-2B54-4678-B537-9010335BA6D0}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="MusicBus" ID="{70E3DB4B-A1D4-474A-9175-A484D5A4FF19}" WorkUnitID="{E2E7DA95-1C32-4B63-AF5B-CFA3BEEA2ED5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SpotifyMate_com-Teenage-Dirtbag-Wheatus" ID="{2DB29B3B-DC94-4858-AABE-F1A9397F2FB9}">
+							<Language>SFX</Language>
+							<AudioFile>SpotifyMate.com-Teenage-Dirtbag-Wheatus.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="405579634"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="SpotifyMate_com-Teenage-Dirtbag-Wheatus" ID="{2DB29B3B-DC94-4858-AABE-F1A9397F2FB9}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

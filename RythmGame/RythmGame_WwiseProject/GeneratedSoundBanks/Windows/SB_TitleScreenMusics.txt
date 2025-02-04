@@ -1,13 +1,19 @@
 Event	ID	Name			Wwise Object Path	Notes
 	1308217568	Play_The_Lemonheads___Mrs__Robinson__Remastered_			\Default Work Unit\Play_The_Lemonheads___Mrs__Robinson__Remastered_	
+	1488472565	Play_SpotifyMate_com_Secrets_Radio_Edit_Ti_sto			\Default Work Unit\Play_SpotifyMate_com_Secrets_Radio_Edit_Ti_sto	
 	1637566289	Seek_The_Girl_From_Ipanema__2008_Remastered_			\Default Work Unit\Seek_The_Girl_From_Ipanema__2008_Remastered_	
 	1857437241	Play_Flatline			\Default Work Unit\Play_Flatline	
 	2180748824	Play_SpotifyMate_com_Levels_Radio_Edit_Avicii			\Default Work Unit\Play_SpotifyMate_com_Levels_Radio_Edit_Avicii	
+	3048221749	Play_SpotifyMate_com_The_Thrill_Bayfront_View			\Default Work Unit\Play_SpotifyMate_com_The_Thrill_Bayfront_View	
 	3086540886	StopAll			\Default Work Unit\StopAll	
+	3401072247	Play_SpotifyMate_com_Teenage_Dirtbag_Wheatus			\Default Work Unit\Play_SpotifyMate_com_Teenage_Dirtbag_Wheatus	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	35198748	SpotifyMate_com-Levels-Radio-Edit-Avicii	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\0A\{0A2740DD-7BC3-C85B-A7BF-E539C0E2470A}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\SpotifyMate_com-Levels-Radio-Edit-Avicii		773605
 	156474829	Flatline	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\FD\{FD461DB0-0275-3C5A-EA4A-3AF75FFA2270}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\Flatline		520682
 	186236163	The_Lemonheads_-_Mrs__Robinson_(Remastered)	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\2F\{2F182917-DDCF-5B7C-A38B-CDE74D3E8701}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\The_Lemonheads_-_Mrs__Robinson_(Remastered)		837539
 	318042382	The_Girl_From_Ipanema__2008_Remastered_	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\3A\{3A3EF9FD-D516-8DF9-C6BA-6D53CE91E19D}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\The_Girl_From_Ipanema__2008_Remastered_		782442
+	405579634	SpotifyMate_com-Teenage-Dirtbag-Wheatus	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\31\{31739ABC-9CAD-720F-25D4-F7126B8DFE02}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\SpotifyMate_com-Teenage-Dirtbag-Wheatus		983442
+	514280357	SpotifyMate_com-The-Thrill-Bayfront-View	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\E6\{E64363CE-6BC3-5797-5D27-AFFFFF682493}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\SpotifyMate_com-The-Thrill-Bayfront-View		816237
+	950646023	SpotifyMate_com-Secrets-Radio-Edit-Tiësto	C:\Users\Talleux\Desktop\Rhythm-game\RythmGame\RythmGame_WwiseProject\.cache\24\{247D4406-9553-E6CD-4305-F686072673ED}.wem		\Actor-Mixer Hierarchy\TitleScreenMusics\SpotifyMate_com-Secrets-Radio-Edit-Tiësto		892187
 
